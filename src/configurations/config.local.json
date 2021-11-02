@@ -1,0 +1,6 @@
+{
+  "port": 4001,
+  "build": "",
+  "mocks": false,
+  "servicePaths": {}
+}

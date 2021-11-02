@@ -1,0 +1,7 @@
+{
+  "port": 80,
+  "path": "/graphql",
+  "build": "",
+  "mocks": false,
+  "servicePaths": {}
+}
